@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: fn14.study.maven.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.123 s - in fn14.study.maven.AppTest
